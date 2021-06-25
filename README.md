@@ -26,7 +26,7 @@ $ pip install requests
 $ pip install mechanize  
 $ pip install futures  
 $ rm -rf premium  
-$ git clone https://github.com/Dapunta/premium  
+$ git clone https://github.com/ChalKunxD/premium  
 ## ⇨  Run Script
 $ cd premium  
 $ python premium.py  

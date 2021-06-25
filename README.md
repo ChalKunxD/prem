@@ -29,4 +29,4 @@ $ rm -rf premium
 $ git clone https://github.com/ChalKunxD/premium  
 ## ⇨  Run Script
 $ cd premium  
-$ python premium.py  
+$ python go.py  

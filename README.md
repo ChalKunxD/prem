@@ -26,7 +26,7 @@ $ pip install requests
 $ pip install mechanize  
 $ pip install futures  
 $ rm -rf premium  
-$ git clone https://github.com/ChalKunxD/premium  
+$ git clone https://github.com/ChalKunxD/prem  
 ## ⇨  Run Script
 $ cd premium  
-$ python go.py  
+$ python prem.py  
